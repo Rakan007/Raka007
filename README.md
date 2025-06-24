@@ -14,7 +14,7 @@ Saya telah menyelesaikan kegiatan magang di **PT Len Industri**, tempat saya bel
 
 ---
 
-## 🛠️ Tools & Teknologi
+## 🛠️ Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,vue,html,css,tailwind,vite,prisma,mysql,mongodb,figma,vscode" />
@@ -22,7 +22,7 @@ Saya telah menyelesaikan kegiatan magang di **PT Len Industri**, tempat saya bel
 
 ---
 
-## 📌 Fakta Unik tentang Saya
+## 📌 Fakta Unik
 
 - 🧠 Saat ini saya sedang belajar **Data Analytics dan Security**
 - 🧪 Suka eksplorasi proyek yang scalable dan efisien
@@ -31,7 +31,7 @@ Saya telah menyelesaikan kegiatan magang di **PT Len Industri**, tempat saya bel
 
 ---
 
-## 🔗 Yuk Terhubung!
+## 🔗 Hubungi
 
 [![portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rakadevn.web.app/)  
 [![instagram](https://img.shields.io/badge/@rakandanendra-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rkan_dd)  
