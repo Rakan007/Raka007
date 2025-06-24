@@ -1,7 +1,7 @@
 <h1 align="center">Hai, Saya Rakan! 👋</h1>
 
 <p align="center">
-  🔧 Fullstack Developer | 🎓 SMKN 4 Bandung | 🧠 Lifelong Learner
+  🔧 Fullstack Developer | 🎓 <a href="https://smkn4bdg.sch.id" target="_blank">SMKN 4 Bandung</a> | 🧠 Lifelong Learner
 </p>
 
 ---
@@ -9,60 +9,29 @@
 ## 🚀 Tentang Saya
 
 Saya Rakan Danendra Darmawan, seorang Fullstack Developer yang sedang fokus di dunia Back-End.  
-Aktif sebagai pelajar di SMKN 4 Bandung jurusan Rekayasa Perangkat Lunak (RPL).  
-Saya telah menyelesaikan kegiatan magang di **PT Len Industri**, tempat saya belajar banyak hal tentang pengembangan aplikasi berskala industri, kolaborasi tim, serta penerapan teknologi modern dalam dunia kerja.
+Aktif sebagai pelajar di <a href="https://smkn4bdg.sch.id" target="_blank">SMKN 4 Bandung</a> jurusan Rekayasa Perangkat Lunak (RPL).  
+Saya telah menyelesaikan kegiatan magang di <a href="https://www.len.co.id" target="_blank">PT Len Industri</a>, tempat saya belajar banyak hal tentang pengembangan aplikasi berskala industri, kolaborasi tim, serta penerapan teknologi modern dalam dunia kerja.
 
 ---
 
 ## 🛠️ Tools
 
-<p>
-  <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vue" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" />
-  </a>
-  <a href="https://vitejs.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vite" />
-  </a>
-  <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=prisma" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-  </a>
-  <a href="https://figma.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vue" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite" /></a>
+  <a href="https://www.prisma.io/" target="_blank"><img src="https://skillicons.dev/icons?i=prisma" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
 
 ---
@@ -81,4 +50,3 @@ Saya telah menyelesaikan kegiatan magang di **PT Len Industri**, tempat saya bel
 [![portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rakadevn.web.app/)  
 [![instagram](https://img.shields.io/badge/@rakandanendra-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rkan_dd)  
 [![Email](https://img.shields.io/badge/Email-me-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakandanendrad@gmail.com)
-
