@@ -72,7 +72,7 @@ Saya telah menyelesaikan kegiatan magang di **PT Len Industri**, tempat saya bel
 - 🧠 Saat ini saya sedang belajar **Data Analytics dan Security**
 - 🧪 Suka eksplorasi proyek yang scalable dan efisien
 - 🤝 Senang bekerja sama dalam tim dan kolaborasi proyek real-life
-- ⚡ Fun fact: suka ngoding malem-malem sambil ngopi
+- ⚡ Fun fact: paling produktif ngoding tengah malam sambil ngopi ☕
 
 ---
 
