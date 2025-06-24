@@ -12,7 +12,7 @@ Saya telah menyelesaikan kegiatan magang di <a href="https://www.len.co.id" targ
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Alat yang digunakan
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
