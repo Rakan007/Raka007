@@ -1,5 +1,3 @@
-<h1 align="center">Hai, Saya Rakan! 👋</h1>
-
 <p align="center">
   🔧 Fullstack Developer | 🎓 <a href="https://smkn4bdg.sch.id" target="_blank">SMKN 4 Bandung</a> | 🧠 Lifelong Learner
 </p>
