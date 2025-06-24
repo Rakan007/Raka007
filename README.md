@@ -31,7 +31,7 @@ Saya telah menyelesaikan kegiatan magang di **PT Len Industri**, tempat saya bel
 
 ---
 
-## 🔗 Hubungi
+## 🔗 Info
 
 [![portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rakadevn.web.app/)  
 [![instagram](https://img.shields.io/badge/@rakandanendra-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rkan_dd)  
