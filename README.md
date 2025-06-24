@@ -1,40 +1,39 @@
-# <summary><strong>Hi there :wave: , I'm Rakan!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<h1 align="center">Hai, Saya Rakan! 👋</h1>
+
+<p align="center">
+  🔧 Fullstack Developer | 🎓 SMKN 4 Bandung | 🧠 Lifelong Learner
 </p>
 
-### <summary><strong>Tools:</strong></summary>
+---
+
+## 🚀 Tentang Saya
+
+Saya Rakan Danendra Darmawan, seorang Fullstack Developer yang sedang fokus di dunia Back-End.  
+Aktif sebagai pelajar di SMKN 4 Bandung jurusan Rekayasa Perangkat Lunak (RPL).  
+Saya telah menyelesaikan kegiatan magang di **PT Len Industri**, tempat saya belajar banyak hal tentang pengembangan aplikasi berskala industri, kolaborasi tim, serta penerapan teknologi modern dalam dunia kerja.
+
+---
+
+## 🛠️ Tools & Teknologi
+
 <p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,vue,html,css,tailwind,vite,prisma,mysql,mongodb,figma,vscode" />
 </p>
 
-### <summary><strong>Yosh!</strong></summary>
-<p>
-    - :keyboard: I’m currently learning Data Analytics. </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:youremail@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing and writing are part of me. </br>
-<p>
- 
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/yours">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
-<a href="https://www.instagram.com/yours/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<a href="https://yours.com/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
-</a>
-Ubah link media sosial diatas dengan link media sosial kalian.
+---
 
-Untuk Tools, kalian juga dapat menambahkan:
+## 📌 Fakta Unik tentang Saya
 
-<img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" /> - MacOS
-<img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" /> - Swift
-<img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" /> - IDE
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=namaAnda&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namaAnda&layout=compact" height=180 />
-</p>
+- 🧠 Saat ini saya sedang belajar **Data Analytics dan Security**
+- 🧪 Suka eksplorasi proyek yang scalable dan efisien
+- 🤝 Senang bekerja sama dalam tim dan kolaborasi proyek real-life
+- ⚡ Fun fact: suka ngoding malem-malem sambil ngopi
+
+---
+
+## 🔗 Yuk Terhubung!
+
+[![portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://https://rakadevn.web.app/)  
+[![instagram](https://img.shields.io/badge/@rakandanendra-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rkan_dd)  
+[![Email](https://img.shields.io/badge/Email-me-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakandanendrad@gmail.com)
+
