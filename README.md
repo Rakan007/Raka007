@@ -47,6 +47,6 @@ Saya telah menyelesaikan kegiatan magang di <a href="https://www.len.co.id" targ
 
 ## 🔗 Info
 
-[![portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rakadevn.web.app/)  
 [![instagram](https://img.shields.io/badge/@rakandanendra-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rkan_dd)  
+[![portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rakadevn.web.app/)  
 [![Email](https://img.shields.io/badge/Email-me-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakandanendrad@gmail.com)
