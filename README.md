@@ -15,7 +15,7 @@ Saya telah menyelesaikan kegiatan magang di <a href="https://www.len.co.id" targ
 ## 🛠️ Alat yang Digunakan
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right: 8px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right: 20px;">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" style="margin-right: 8px;">
